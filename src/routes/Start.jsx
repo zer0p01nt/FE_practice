@@ -24,7 +24,7 @@ function Start() {
   return (
     <S.Wrapper>
       <S.Box>
-        <S.Title>🦁 2025 연합 세션 🦁</S.Title>
+        <S.Title>🦁안녕🦁</S.Title>
         <S.Subtitle>
           {loggedIn ? '로그인된 상태예요. 로그아웃하시겠어요?' : '로그인하고 시작해볼까요?'}
         </S.Subtitle>
